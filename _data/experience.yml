@@ -1,0 +1,41 @@
+# Jobs
+# VIDAL
+- company: Vidal
+  position: Développeur Agile (consultant Arolla)
+  duration: Jan, 2015 &mdash; Avr, 2016
+  summary: Développement de nouvelles applications web dans le cadre de la refonte de l’écosystème back-office de VIDAL. <br> Notamment une application permettant l’intégration électronique de document (GED) au sein de Vidal et la gestion du flux de travail autour de ses documents. <br>
+  tasks : <ul class="resume-item-tasks-list"><li>Veille au respect et animations des pratiques SCRUM (Sprint Planning, DSM, Demo, Retro, Dojo, code & design review)</li> <li>Support au PO et recueil des nouveaux besoins directement auprès des utilisateurs</li> <li>Développement de l’application ainsi que d’autres outils périphériques à l’application, tous référencées par un annuaire de service (ETCD)</li> <li>Détermination de la stratégie de test avec la mise en place des tests d’intégration</li> <li>Sensibilisation de l’équipe à la pratique du TDD et au refactoring continu</li> <li>Identification et référencement de la dette technique des équipes back-office ainsi que la mise en place d’une stratégie de réduction de la dette</li> <li>Déploiement sur des plateformes de test via Docker</li> <li>Mise en production</li> </ul>
+  environment: Java-EE 8/7, REST, Jersey1/2, Spring, Hibernate, Mongo, SQL, Rest-Assured, Junit, Mockito, TDD (Pair-Programming), Angular.JS, CoffeeScript, Bootstrap, Eclipse/IntelliJ, Logback, Git, Maven, Tomcat, Docker, Activiti, Jsoup, RxJava/Js
+
+# Orange SPA
+- company: Orange
+  position: Lead Développeur Agile
+  duration:  Nov, 2013 &mdash; Dec, 2014
+  summary: Mise en place d’une architecture REST qui permet à Orange d’avoir des services uniques de prise de commande d’offre quadri-play (internet, téléphone, télé et mobile). Ce projet vise à centraliser les fonctions métiers d’Orange et permet de développer des IHM dîtes « fines », sans logique métier.
+  tasks : <ul class="resume-item-tasks-list"> <li>Veille au respect et animations des pratiques SCRUM (Sprint Planning, DSM, Demo, Retro, Dojo, code & design review)</li> <li>Conception de l’architecture REST avec Jersey2</li> <li>Définition des contrats d’interfaces et mise en place d’une documentation intégrée  en ligne de l’api REST</li> <li>Identification et développement des ressources  aux normes RESTful</li> <li>Mise en place d’une couche de persistance via Couchbase</li> <li>Détermination de la stratégie de test et automatisation (tests de non régression SoapUI, tests de charge Gatling, framework de test). Sensibilisation de l’équipe à la pratique du TDD (jUnit, Mockito).</li> <li>Développement d’une IHM de démo/simulation en Angular.JS mettant en œuvre les ressources REST</li> <li>Développement d’une IHM de démo/simulation en Angular.JS mettant en œuvre les ressources REST</li> </ul>
+  environment: Java-EE, REST, Spring (Security), Jersey2, Swagger, Couchbase, SoapUI, Gatling, Rest-Assured, Junit, Mockito, TDD (Pair-Programming), BDD, Angular.JS, IntelliJ, Logback, SVN, GIT
+
+# Orange
+- company: Orange
+  position: Développeur Agile
+  duration: Sept, 2009  &mdash; Aout, 2013
+  summary: Participation à l’effort de développement pour Soft Commande Unique, une application de prise de commande unique en interne au sein d’Orange. <br> Il s’agit d’une application de prise de commande d’offre quadri-play (internet, téléphone, télévision et mobile).<br> Application multicanale utilisée par tous les vendeurs d’Orange et ses partenaires, en boutique ou par téléphone.<br>
+  tasks : <ul class="resume-item-tasks-list"> <li>Back-end (couche métier et applicative) avec la définition de la logique applicative, des domaines métiers et d’une couche d’infrastructure permettant d’interagir avec le SI d’Orange. L’ensemble étant développé autant que possible en TDD.</li> <li>Front-end (couche de présentation) guidant les vendeurs dans leur parcours de prise de commande. Développé avec le framework GWT.</li> <li>Application du pattern CQRS et Conception selon DDD</li> <li>Conception selon DDD</li> <li>Support aux équipes fonctionnelles (PO et proxy-PO) à la définition des user stories</li> <li>Développement d’outils divers améliorant le processus de validation des stories (référentiel de mock, outils de visualisation des logs)</li><li>Respect des engagements de qualité de code (métriques SONAR)</li></ul>
+  environment: Java-EE, GWT, Spring, Hibernate, CXF, HTML, CSS, Eclipse, Intellij, Maven, Tomcat, SVN, Scrum, Junit, Mockito, EasyMock, TDD (Pair-Programming), Logback, Javascript
+
+# LCL
+- company: LCL
+  position: Développeur (stage)
+  duration: Juil, 2009  &mdash; Sept, 2009
+  summary: Veille technologique sur les différentes techniques d’identification biométrique et réalisation de prototype<br> Etude sur l’intégration d’outils biométriques dans les processus contractuels du LCL.
+  tasks: <ul class="resume-item-tasks-list"> <li>Veille et rédaction d’un livre  blanc sur les techniques d’identification biométrique et leur mise en pratique</li> <li>Test des différentes tablettes graphiques du marché</li> <li>Développement d’un prototype mettant en œuvre la signature biométrique sur tablette et envoie des informations au système de gestion électronique de document</li></ul>
+  environment: Eclipse, C++, Wacom, Word
+
+
+# Noxent
+- company: Noxent
+  position: Développeur (stage)
+  duration: Avr, 2008  &mdash; Juin, 2008
+  summary: Développement d’applications web pour une société de service
+  tasks: <ul class="resume-item-tasks-list"> <li>Rédaction de spécification fonctionnelle</li> <li>Développement d’un agenda électronique en interne permettant de saisir les rendez-vous client</li> <li>Développement d’un outil en ligne permettant de saisir des notifications récurrentes</li></ul>
+  environment: PHP, MySQL, NetBeans, HTML, CSS, Javascript, Jquery
