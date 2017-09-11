@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "David S. Panza"
+resume_name:                    "David Panza"
 resume_title:                   "Développeur passioné et Craftman"
 resume_contact_email:           "david.panza@gmail.com"
 resume_contact_telephone:       "+330644169452"
@@ -28,7 +28,7 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        false
-resume_section_skills:          false
+resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
