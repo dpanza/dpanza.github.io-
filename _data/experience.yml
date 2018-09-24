@@ -1,7 +1,23 @@
 # Jobs
+# Société Générale
+- company: Société Générale
+  position: Développeur (freelance)
+  duration: Jan, 2018 &mdash; Oct, 2018
+  summary: Au sein d'un incubateur, accompagner une ligne métier dans le développement d'un outil digital permettant de dynamiser les présentations d'impact financier auprès des grands comptes de la SGCIB. Cet outil vise à optimiser le procéssus de création de ces présentations et à moderniser la relation entre la société générale et ses clients.<br>
+  tasks: <ul class="resume-item-tasks-list"> <li>Accompagner la ligne métier dans une transofmation digitale</li> <li>Explorer et identifier les besoins au plus proche du métier</li> <li>Création d'une équipe autonome et multi compétente, aka pizza team</li> <li>Animation des différentes cérémonies agiles et ateliers UX</li> <li>Encadrer le flux de développement suivant la méthodologie Kanban</li> <li>Définition et création de la stack technique back-end et front-end</li> <li>Identification des différents domaines métiers selon les pratiques DDD</li> <li>Design des domaines dans une architecture modulaire et héxagonale, séparant problématique technique et complexité métier</li> <li>Mise en place de l'infrastructure serveur</li> <li>Configuration d'outils d'intégration et de déploiement continue avec GoCD</li> <li>Mise en place de la stack de monitoring ELK</li> <li>Développement d'un modèle financier et veille sur la manière de le documenter (living documentation)</li> </ul>
+  environment: DDD, BDD, TDD, Scala, Scalatra, Scalatest, Spring Boot, React, Redux, Webpack, Jest, Typescript, Postgres, GoCD, Linux
+
+# Société Générale
+- company: Société Générale
+  position: Lead Développeur (consultant Arolla)
+  duration: Avr, 2016 &mdash; Dec, 2017
+  summary: Refonte d'une plateforme de financement structuré en microservice, dans une organisation divisée en plusieurs features teams. Cette plateforme permet structurer le financement de projet pour les grands comptes de la SGCIB. Elle gère le cycle de vie du crédit, de la prospection jusqu'à la signature définitive du projet.<br>
+  tasks: <ul class="resume-item-tasks-list"> <li>Coaching d'une feature dans les pratiques crafts telles que le BDD, TDD et DDD</li> <li>Développement des nouveaux domaines métiers en microservices</li> <li>Configuration de l'annuaire de service Consul</li> <li>Support au business analyst sur la rédaction des user stories</li> <li>Exploration des besoins</li> <li>Mise en place de la stack de monitoring ELK</li> <li>Encadrement du flux de travail selon le framework scrum puis transition au développement en flux via un kanban</li> <li>Animation de kata et mob programming sur divers sujets comme l'event sourcing, cqrs et programmation fonctionnelle</li> <li>Migration de microservices sur docker</li> </ul>
+  environment: Architure microservices event driven, CQRS et event sourcing, Behavior Driven Design, TDD, Scrum et Scrumban, JAVA 8, Kotlin, Clojure, Typescript & javascript, Sass, HTML, Spring Boot, Spring Cloud, Service discovery via Consul, Cucumber, Angular 1.x, Mocha, Chai, RabbitMQ, Oracle, ElasticSearch, Kibana, Logstash, PACT, Docker, Puppet
+
 # VIDAL
 - company: Vidal
-  position: Développeur Agile (consultant Arolla)
+  position: Développeur (consultant Arolla)
   duration: Jan, 2015 &mdash; Avr, 2016
   summary: Développement de nouvelles applications web dans le cadre de la refonte de l’écosystème back-office de VIDAL. <br> Notamment une application permettant l’intégration électronique de document (GED) au sein de Vidal et la gestion du flux de travail autour de ses documents. <br>
   tasks : <ul class="resume-item-tasks-list"><li>Veille au respect et animations des pratiques SCRUM (Sprint Planning, DSM, Demo, Retro, Dojo, code & design review)</li> <li>Support au PO et recueil des nouveaux besoins directement auprès des utilisateurs</li> <li>Développement de l’application ainsi que d’autres outils périphériques à l’application, tous référencées par un annuaire de service (ETCD)</li> <li>Détermination de la stratégie de test avec la mise en place des tests d’intégration</li> <li>Sensibilisation de l’équipe à la pratique du TDD et au refactoring continu</li> <li>Identification et référencement de la dette technique des équipes back-office ainsi que la mise en place d’une stratégie de réduction de la dette</li> <li>Déploiement sur des plateformes de test via Docker</li> <li>Mise en production</li> </ul>
@@ -9,7 +25,7 @@
 
 # Orange SPA
 - company: Orange
-  position: Lead Développeur Agile
+  position: Lead Développeur (interne)
   duration:  Nov, 2013 &mdash; Dec, 2014
   summary: Mise en place d’une architecture REST qui permet à Orange d’avoir des services uniques de prise de commande d’offre quadri-play (internet, téléphone, télé et mobile). Ce projet vise à centraliser les fonctions métiers d’Orange et permet de développer des IHM dîtes « fines », sans logique métier.
   tasks : <ul class="resume-item-tasks-list"> <li>Veille au respect et animations des pratiques SCRUM (Sprint Planning, DSM, Demo, Retro, Dojo, code & design review)</li> <li>Conception de l’architecture REST avec Jersey2</li> <li>Définition des contrats d’interfaces et mise en place d’une documentation intégrée  en ligne de l’api REST</li> <li>Identification et développement des ressources  aux normes RESTful</li> <li>Mise en place d’une couche de persistance via Couchbase</li> <li>Détermination de la stratégie de test et automatisation (tests de non régression SoapUI, tests de charge Gatling, framework de test). Sensibilisation de l’équipe à la pratique du TDD (jUnit, Mockito).</li> <li>Développement d’une IHM de démo/simulation en Angular.JS mettant en œuvre les ressources REST</li> <li>Développement d’une IHM de démo/simulation en Angular.JS mettant en œuvre les ressources REST</li> </ul>
@@ -17,7 +33,7 @@
 
 # Orange
 - company: Orange
-  position: Développeur Agile
+  position: Développeur (interne)
   duration: Sept, 2009  &mdash; Aout, 2013
   summary: Participation à l’effort de développement pour Soft Commande Unique, une application de prise de commande unique en interne au sein d’Orange. <br> Il s’agit d’une application de prise de commande d’offre quadri-play (internet, téléphone, télévision et mobile).<br> Application multicanale utilisée par tous les vendeurs d’Orange et ses partenaires, en boutique ou par téléphone.<br>
   tasks : <ul class="resume-item-tasks-list"> <li>Back-end (couche métier et applicative) avec la définition de la logique applicative, des domaines métiers et d’une couche d’infrastructure permettant d’interagir avec le SI d’Orange. L’ensemble étant développé autant que possible en TDD.</li> <li>Front-end (couche de présentation) guidant les vendeurs dans leur parcours de prise de commande. Développé avec le framework GWT.</li> <li>Application du pattern CQRS et Conception selon DDD</li> <li>Conception selon DDD</li> <li>Support aux équipes fonctionnelles (PO et proxy-PO) à la définition des user stories</li> <li>Développement d’outils divers améliorant le processus de validation des stories (référentiel de mock, outils de visualisation des logs)</li><li>Respect des engagements de qualité de code (métriques SONAR)</li></ul>

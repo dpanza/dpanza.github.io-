@@ -1,15 +1,20 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Nuclear Power Plant
-  year: 2010
-  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+- award: Du monotlithe aux microservices, depuis les tranchées
+  organization: Magazine Programmez
+  year: Octobre 2018
+  summary: Tout ce qu'il faut savoir avant de se lancer dans une architecture microservice; gérer les intéractions et les domaines fonctionnelles, les difficultés d'un système distribué, les pièges à éviter, les briques techniques à mettre en oeuvre et les enjeux culturels et organisationnels.
 
-- award: Duff Beer Customer of the year
-  organization:
-  year: 1997 &mdash; 2001, 2003, 2008 &mdash; 2012
-  summary: Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a> for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed.
+- award: Comment choisir son framework ou sa librairie
+  organization: Magazine Programmez
+  year: Juin 2018
+  summary: L’intégration d’un framework ou d’une bibliothèque est un choix important et impactant pour une application. Vous vous êtes sûrement retrouvés dans des situations où vous deviez faire un choix. Par manque de méthodologie ou d’accompagnement, cette décision peut être prise de manière peu constructive.
 
-- award: Moe's Patron of the Month
-  organization: 
-  year: 12/2001, 8/2004
-  summary: Specifically this prestigious awarded twice for stopping a robber with my belly.
+- award: Du monotlithe aux microservices, depuis les tranchées
+  organization: Codeurs en Seine
+  year: Novembre 2017
+
+- award: Les patterns CQRS et event sourcing
+  summary: Deux patterns qui changent radicalement le design de nos applications. L'un répond à un besoin de scalabilité, l'autre aux problématiques de perte de données. Pourquoi les utiliser aujourd'hui et comment les mettre en oeuvre, avec les concepts clés et les pièges à éviter.
+
+- award: Le contract testing
+  summary: le « Contract Testing » ou comment assurer la pérennité et la non régression dans les communications inter services / équipes que ce soit en REST ou sur un bus d'évènements, avec une présentation de l'outil PACT.
