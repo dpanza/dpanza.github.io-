@@ -1,9 +1,9 @@
 # Skills
 - skill: Architecture
-  description: SOA, micro-services et systèmes distribués
+  description: Event Driven Architecture, SOA, micro-services et systèmes distribués
 
 - skill: Patterns
-  description: CQRS, event sourcing, port-adapter
+  description: CQRS, event sourcing, port-adapter, Circuit Breaker
 
 - skill: Pratiques agiles
   description: Scrum, Kanban, Scum-ban, extrêmes programming (XP)
@@ -12,10 +12,10 @@
   description: TDD, BDD, DDD et adepte clean code
 
 - skill: Principaux langages
-  description: Java, Scala, Clojure, Javascript
+  description: Clojure, ClojureScript, Java, Scala, Javascript
 
 - skill: Frameworks / libs
-  description: Spring, Spring Boot, GWT, Axon, AngularJs 1.x, React/Redux
+  description: Spring, Spring Boot, GWT, Axon, AngularJs 1.x, React/Redux, Re-frame, ClojureSpec
 
 - skill : Ops
-  description: GoCD, Jenkins, Docker
+  description: GoCD, Jenkins, GitlabCI, Docker, Kubernetes

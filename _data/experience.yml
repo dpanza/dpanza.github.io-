@@ -1,11 +1,27 @@
 # Jobs
+# Electre
+- company: Electre
+  position: Architecte, Lead Développeur, coach (freelance)
+  duration: Jan, 2019 &mdash; Auj
+  summary: Conception et développement from-scratch d'une plateforme de donnée bibliographique. Cette solution référence toutes les données concernant les oeuvres (livre, jeux-vidéo, musique, film) parues en france. Elle intègre des fonctionnalités telles qu'une recherche avancée, la création de paniers et de commande, un mécanisme de veille bibliographique. Dans le cadre de ce projet, Electre a pu réintégré la conception logicielle en interne, jusqu'à lors en sous traitance.
+  tasks: <ul class="resume-item-tasks-list"><li>Accompagner Electre dans la création d'une équipe de développement (organisation + sourcing)</li><li>Explorer et identifier les besoins au plus proche du métier</li><li>Coaching sur la conception produit, l'analyse du besoin, la priorisation et la spécification</li><li>Animation des différentes cérémonies agiles, XP et ateliers UX</li><li>Former les développeurs juniors sur les bonnes pratiques de développement et de qualité</li><li>Encadrer le flux de développement suivant la méthodologie Kanban</li><li>Définition et création de la stack technique back-end et front-end</li><li>Identification des différents domaines métiers selon les pratiques DDD</li><li>Design des domaines dans une architecture modulaire, séparant problématique technique et complexité métier</li><li>Création d'un framework DDD permettant de manipuler les différents concepts tactiques et de documenter le domaine</li><li>Évolution d'une <a target="_blank" href="https://github.com/jgrodziski/scenari/tree/v2">librairie Clojure d'automatisation de test</a> de scénarios issue du BDD</li><li>Création d'un moteur de recherche Solr basé sur Lucene</li><li>Mise en production et support</li></ul>
+  environment: DDD, BDD, TDD, Clojure, ClojureScript, Re-frame, React, Redux, Shadow-cljs, GitlabCI, Kubernetes, Docker, Google Cloud Platform, Postgres, BigQuery, PubSub, Kafka, Dataflow, Solr, EFK
+
+# OUI.sncf
+- company: Oui.sncf
+  position: Architecte (freelance)
+  duration: Nov, 2018 &mdash; Mar, 2019
+  summary: Evolution d'une solution de contrôle des titres de transport (train, RER, intercité) de tous les usagers en france. Aggrégant les données du SI OUI.sncf et SNCF, ce système est principalement consommé par une application mobile pour les agents de contrôle SNCF ainsi que par les portes de contrôle placées en gare.
+  tasks: <ul class="resume-item-tasks-list"><li>Cartographier le système ainsi que ces acteurs</li><li>Résourdre les problématiques de charges et de cohérence à terme</li><li>Rationaliser les évènements du domaine</li><li>Amélioration de la stack existante</li><li>Animation d'atelier de design</li></ul>
+  environment: DDD, Event Driven Architecture, Scala, Akka, Elasticsearch, Kafka, KSQL
+
 # Société Générale
 - company: Société Générale
-  position: Développeur (freelance)
+  position: Lead Développeur (freelance)
   duration: Jan, 2018 &mdash; Oct, 2018
   summary: Au sein d'un incubateur, accompagner une ligne métier dans le développement d'un outil digital permettant de dynamiser les présentations d'impact financier auprès des grands comptes de la SGCIB. Cet outil vise à optimiser le procéssus de création de ces présentations et à moderniser la relation entre la société générale et ses clients.<br>
   tasks: <ul class="resume-item-tasks-list"> <li>Accompagner la ligne métier dans une transofmation digitale</li> <li>Explorer et identifier les besoins au plus proche du métier</li> <li>Création d'une équipe autonome et multi compétente, aka pizza team</li> <li>Animation des différentes cérémonies agiles et ateliers UX</li> <li>Encadrer le flux de développement suivant la méthodologie Kanban</li> <li>Définition et création de la stack technique back-end et front-end</li> <li>Identification des différents domaines métiers selon les pratiques DDD</li> <li>Design des domaines dans une architecture modulaire et héxagonale, séparant problématique technique et complexité métier</li> <li>Mise en place de l'infrastructure serveur</li> <li>Configuration d'outils d'intégration et de déploiement continue avec GoCD</li> <li>Mise en place de la stack de monitoring ELK</li> <li>Développement d'un modèle financier et veille sur la manière de le documenter (living documentation)</li> </ul>
-  environment: DDD, BDD, TDD, Scala, Scalatra, Scalatest, Spring Boot, React, Redux, Webpack, Jest, Typescript, Postgres, GoCD, Linux
+  environment: DDD, BDD, TDD, Scala, Scalatra, Scalatest, React, Redux, Webpack, Jest, Postgres, GoCD, Linux
 
 # Société Générale
 - company: Société Générale
