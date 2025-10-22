@@ -36,7 +36,18 @@
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
-    margin: 1rem 0 2rem;
+    margin: 1rem 0 0.5rem;
+  }
+
+  .defsquare-logo {
+    display: block;
+    width: 280px;
+    height: auto;
+    margin: 1rem auto 1.5rem;
+
+    @include media_larger_than_mobile {
+      width: 320px;
+    }
   }
 
   .header-contact-info {
@@ -97,7 +108,7 @@
   .icon-link { display: inline-block;
 
     &:hover .icon path {
-      fill: #333;
+      fill: $defsquare-red;
       @include transition(all .2s ease);
     }
   }
@@ -105,7 +116,7 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
+  background-color: $defsquare-red;
   text-decoration: none;
   text-align: center;
   display: block;
@@ -113,12 +124,12 @@
   width: 220px;
   font-size: 1.375rem;
   @include sans_light;
-  color: #333;
+  color: #fff;
   line-height: 55px;
   @include transition(all .2s ease);
 
   &:hover {
-    background-color: #333;
+    background-color: $defsquare-blue;
     color: #fff;
   }
 
@@ -155,13 +166,13 @@
   .resume-item-copy,
   .resume-item-list {
     a {
-      color: #333;
+      color: $defsquare-blue;
       text-decoration: none;
       border-bottom: 1px solid;
 
       &:hover {
         border-bottom: none;
-        color: #9c9c9c;
+        color: $defsquare-red;
       }
     }
   }
@@ -194,7 +205,7 @@
 
     > a {
       font-weight: 700;
-      color: #333;
+      color: $defsquare-blue;
     }
   }
 }

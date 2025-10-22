@@ -12,7 +12,7 @@
   description: TDD, BDD, DDD et adepte clean code
 
 - skill: Principaux langages
-  description: Clojure, ClojureScript, Java, Scala, Javascript
+  description: Clojure, ClojureScript, Java, Scala, Javascript, Typescript
 
 - skill: Frameworks / libs
   description: Spring, Spring Boot, GWT, Axon, AngularJs 1.x, React/Redux, Re-frame, ClojureSpec

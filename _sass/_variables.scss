@@ -8,8 +8,12 @@ $grid-gutter:     10px !default;
 $white:             #fff;
 $black:             #333;
 
+// Defsquare brand colors
+$defsquare-blue:    #1A2A36;
+$defsquare-red:     #F65E5E;
+
 // Styles
-$text_color:        $black;
+$text_color:        $defsquare-blue;
 
 // Font stack
 $body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
