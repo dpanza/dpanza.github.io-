@@ -2,6 +2,9 @@
 - skill: IA agentique
   description: Claude Code, Copilot, Cursor, MCP, skills & prompts réutilisables, context et harness engineering, spec-driven development (EARS, Gherkin), coaching et gouvernance IA
 
+- skill: Gouvernance engineering
+  description: Référentiels de standards de développement (SWEBOK V4), cartographie des pratiques multi-équipes, gap analysis, ateliers collaboratifs (Miro)
+
 - skill: Architecture
   description: Event Driven Architecture, SOA, micro-services et systèmes distribués
 
