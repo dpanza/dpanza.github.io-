@@ -1,4 +1,12 @@
 # Jobs
+# Hermès
+- company: Hermès (HDVS)
+  position: Consultant / Coach IA (Defsquare)
+  duration: Mar, 2026 &mdash; Juil, 2026
+  summary: Mission d'accompagnement à l'adoption de l'IA agentique auprès des équipes de développement Hermès (dev backend/front, QA, PO, SRE, architectes, data). Objectif &colon; passer de l'usage conversationnel ponctuel à un usage outillé, cadré et reproductible des agents de code, et poser les bases d'une gouvernance IA pour la DSI. Co-pilote de la phase pilote avec Jérémie Grodziski.
+  tasks: <ul class="resume-item-tasks-list"><li>Cadrage de la mission et kick-off avec le management ; interviews individuelles (10 profils) et restitution d'un diagnostic de maturité IA</li><li>Animation de 23 sessions de pairing IA en situation réelle sur les cas d'usage des équipes (refacto backend / pattern Inbox Kafka, tests E2E autonomes, gestion de backlog Jira/Figma, IaC, diagnostic de prod, migration data)</li><li>Conception et diffusion de skills / workflows réutilisables (spécification EARS/Gherkin, plan mode, revue de code vs spec, génération de tests et de données)</li><li>Points hebdomadaires de capitalisation (5 weeklies) et rédaction des RETEX</li><li>Construction de matrices de maturité « collaboration IA » par persona (DEV, PO/PM) et grilles d'évaluation individuelles</li><li>Rédaction d'un Handbook AI (principes, modèles mentaux, context & harness engineering, cheatsheets, cas d'usage) comme référentiel d'onboarding</li><li>Comparatif de coûts API LLM et recommandations sécurité / gouvernance (données, accès, politique d'usage)</li><li>Restitution finale au CTO &colon; bilan, impact perçu par profil, recommandations de déploiement</li></ul>
+  environment: Claude Code, Copilot, Cursor, Gemini, BMAD, Browser Use, MCP, Skills & prompts réutilisables, Context engineering, Harness engineering, Spec-driven development (EARS, Gherkin), Java/Kafka, Python/Streamlit, Drupal, Playwright/E2E, Terraform/IaC, Jira, Figma, BigQuery/dbt, Notion, Git, Coaching, Change management, Gouvernance IA
+
 # Michelin
 - company: Michelin
   position: Leader Plateforme (Defsquare)
