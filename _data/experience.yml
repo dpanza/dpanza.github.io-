@@ -1,4 +1,12 @@
 # Jobs
+# Hermès - Parcours de formation
+- company: Hermès (HDVS)
+  position: Coordinateur du parcours & concepteur-formateur (Defsquare)
+  duration: Mar, 2026 &mdash; Auj
+  summary: Conception de bout en bout d'un parcours de formation pour ~80 développeurs de la Direction Technique d'Hermès, en 5 modules (Qualité, Observabilité, Performance, Résilience, Architecture). Pédagogie 100 % pratique en classe inversée (vidéos en amont, présentiel en mob/binôme), ancrée dans la stack du client (TypeScript/Node) sur un repo e-commerce commun à tous les modules. Fil rouge méthodologique « spécifier avant d'implémenter » (EARS), IA agentique utilisée comme accélérateur piloté par la spec, évaluation par niveaux de maîtrise, certification Qualiopi et Open Badges.
+  tasks: <ul class="resume-item-tasks-list"><li>Architecture pédagogique du parcours &colon; découpage en modules, progression, format classe inversée, grille d'évaluation par compétences, rattachement de chaque pratique aux standards internes et aux métriques DORA</li><li>Coordination globale &colon; planning des sessions, points de suivi client, co-construction de chaque module avec les référents internes HDVS, pilotage des formateurs Defsquare</li><li>Conception du repo e-commerce de référence (catalogue, panier, commandes, paiement, logistique) servant de support à tous les modules</li><li>Conception et animation du module Qualité (2j) &colon; EARS, 3 amigos, Gherkin/BDD, tests d'acceptance (outer loop), TDD (inner loop), création d'un agent IA personnel synthétisant les pratiques</li><li>Conception et animation du module Résilience (1j) &colon; antipatterns de stabilité, Retry/Timeout, Circuit Breaker, Bulkhead/Backpressure, Outbox/Inbox/Idempotence, Liveness/Readiness, cycle chaos → spec EARS → tests → génération IA → rejeu</li><li>Production des vidéos de pré-requis et du kit de communication interne</li></ul>
+  environment: TypeScript, Node.js, TDD, BDD, Gherkin/Cucumber, EARS, Chaos Engineering, Stability Patterns (Circuit Breaker, Bulkhead, Retry), Outbox/Idempotence, Health checks, OpenTelemetry, Grafana LGTM, k6, DDD, DORA, IA agentique (Claude Code), Mob programming, Classe inversée, Ingénierie pédagogique, Qualiopi, Open Badge
+
 # Hermès
 - company: Hermès (HDVS)
   position: Consultant / Coach IA (Defsquare)

@@ -5,11 +5,14 @@
 - skill: Gouvernance engineering
   description: Référentiels de standards de développement (SWEBOK V4), cartographie des pratiques multi-équipes, gap analysis, ateliers collaboratifs (Miro)
 
+- skill: Formation
+  description: Ingénierie pédagogique, parcours sur mesure en classe inversée, mob programming, évaluation par compétences, Qualiopi, Open Badges
+
 - skill: Architecture
   description: Event Driven Architecture, SOA, micro-services et systèmes distribués
 
 - skill: Patterns
-  description: CQRS, event sourcing, port-adapter, Circuit Breaker
+  description: CQRS, event sourcing, port-adapter, Circuit Breaker, Bulkhead, Retry/Timeout, Outbox/Inbox, idempotence
 
 - skill: Pratiques agiles
   description: Scrum, Kanban, Scum-ban, extrêmes programming (XP)
